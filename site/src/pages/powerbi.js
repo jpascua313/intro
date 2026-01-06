@@ -17,7 +17,7 @@ export default function PowerBISample() {
           <iframe 
             title="NovaSmiles" 
             className={styles.iframe}
-            src="https://app.fabric.microsoft.com/reportEmbed?reportId=434e6005-f72c-4289-a47e-9fd44306431f&autoAuth=true&ctid=6e629d7f-1c5c-416e-b0ea-f00072de97c2" 
+            src="https://app.powerbi.com/view?r=eyJrIjoiMzFjNWRiZmEtNTlhNC00NjYwLWJhZDQtODM0YTM3YjU5OWE4IiwidCI6IjZlNjI5ZDdmLTFjNWMtNDE2ZS1iMGVhLWYwMDA3MmRlOTdjMiIsImMiOjF9" 
             frameBorder="0" 
             allowFullScreen={true}
           />
