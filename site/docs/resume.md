@@ -1,7 +1,7 @@
 ---
+id: resume
 title: Jonas Pascua - Resume
 sidebar_label: Resume
-pagination_next: projects/fabric-pipeline
 ---
 
 # JONAS PASCUA
