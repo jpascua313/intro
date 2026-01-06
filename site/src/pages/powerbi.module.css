@@ -1,0 +1,49 @@
+.container {
+  width: 95vw;
+  max-width: none;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.description {
+  font-size: 1.1rem;
+  color: var(--ifm-color-emphasis-700);
+  margin-bottom: 2rem;
+  text-align: left;
+}
+
+.reportContainer {
+  position: relative;
+  width: 100%;
+  height: 900px; /* Fixed height for larger display */
+  overflow: hidden;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-bottom: 2rem;
+}
+
+.iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+/* Tablet and mobile responsive adjustments */
+@media (max-width: 996px) {
+  .container {
+    padding: 1rem;
+  }
+  
+  .reportContainer {
+    padding-bottom: 75%; /* Taller aspect ratio for tablets */
+  }
+}
+
+@media (max-width: 768px) {
+  .reportContainer {
+    padding-bottom: 100%; /* Square-ish for mobile */
+  }
+}

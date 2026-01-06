@@ -5,7 +5,7 @@ sidebar_label: Resume
 ---
 
 # JONAS PASCUA
-**BI Developer & Data Engineer**
+### SQL/BI Data Engineer; Senior Financial Manager (FP&A)
 (248) 457-5312 | [jpascua@gmail.com](mailto:jpascua@gmail.com) | Asheville, NC
 [LinkedIn](https://linkedin.com/in/jonaspascua)
 
@@ -71,14 +71,12 @@ sidebar_label: Resume
 
 - Developed real-time Power BI dashboards from a cloned ERP sister database (3NF/ODBC), bridging an information gap between Accounting, Receiving, and Purchasing; efforts led to a promotion and expanded territory oversight.
 
-* **Excel Macro Automation:** Reduced legacy processing time by 85% for month-end close tasks.
-
 ---
 
-### Education
+## Education
 **UNIVERSITY OF MICHIGAN | Ross School of Business**
-*Bachelor of Business Administration*
-*Emphases in Finance & Corporate Strategy*
+- *Bachelor of Business Administration*
+- *Emphases in Finance & Corporate Strategy*
 
 ---
 

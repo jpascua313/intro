@@ -96,6 +96,11 @@ const config = {
             label: 'Resume',
           },
           {
+            to: '/powerbi',
+            position: 'left',
+            label: 'Power BI Sample',
+          },
+          {
             href: 'https://github.com/jpascua313/intro',
             label: 'GitHub',
             position: 'right',
